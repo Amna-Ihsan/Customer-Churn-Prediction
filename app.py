@@ -2,7 +2,7 @@ import joblib
 import streamlit as st
 import pandas as pd
 
-
+model = joblib.load("rf_model.pkl")
 # scaler = joblib.load("scaler.pkl")
 model_columns = joblib.load("model_columns.pkl")
 
