@@ -18,4 +18,4 @@ This project is a **Customer Churn Prediction App** that uses machine learning t
 
 ## Project Link
 
-[[Customer Churn Prediction App](https://customer-churn-prediction-n6rygbj3xptvmjquk74dqx.streamlit.app/)](Add your project or deployed app link here)
+[[Customer Churn Prediction App](https://customer-churn-prediction-n6rygbj3xptvmjquk74dqx.streamlit.app/)]
